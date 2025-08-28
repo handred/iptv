@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Первый канал",
+    "url": "http://192.168.0.150:8083/pervyy_kanal.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/14/original/590496.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Россия 1",
+    "url": "http://192.168.0.150:8083/rossiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/16/original/591108.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Матч ТВ",
+    "url": "http://192.168.0.150:8083/match_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/319/original/591112.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "НТВ",
+    "url": "http://192.168.0.150:8083/ntv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/12/original/591098.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Пятый канал",
+    "url": "http://192.168.0.150:8083/pyatyy_kanal.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/3/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Россия 24",
+    "url": "http://192.168.0.150:8083/rossiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/240/original/591114.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Россия К",
+    "url": "http://192.168.0.150:8083/rossiya_k.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/11/original/591116.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Карусель",
+    "url": "http://192.168.0.150:8083/karusel.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/206/original/595239.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ОТР",
+    "url": "http://192.168.0.150:8083/otr.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/437/original/603469.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТВЦ",
+    "url": "http://192.168.0.150:8083/tvts.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/18/original/591122.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "РЕН-ТВ",
+    "url": "http://192.168.0.150:8083/ren_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/6/original/591106.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Спас",
+    "url": "http://192.168.0.150:8083/spas.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/614/original/4885513.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "СТС",
+    "url": "http://192.168.0.150:8083/sts.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/17/original/591120.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Домашний",
+    "url": "http://192.168.0.150:8083/domashniy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1256/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТВ3",
+    "url": "http://192.168.0.150:8083/tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/20/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ПЯТНИЦА",
+    "url": "http://192.168.0.150:8083/pyatnitsa.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/440/original/604131.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Звезда",
+    "url": "http://192.168.0.150:8083/zvezda.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/259/original/591096.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Мир",
+    "url": "http://192.168.0.150:8083/mir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/88/original/591469.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТНТ",
+    "url": "http://192.168.0.150:8083/tnt.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/19/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "МУЗ - ТВ",
+    "url": "http://192.168.0.150:8083/muz_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/441/original/604344.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ОТВ",
+    "url": "http://192.168.0.150:8083/otv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/13/original/593823.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Четвертый канал",
+    "url": "http://192.168.0.150:8083/chetvertyy_kanal.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/21/original/591128.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Телекон 24",
+    "url": "http://192.168.0.150:8083/telekon.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1371/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "РИМ",
+    "url": "http://192.168.0.150:8083/rim.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1426/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Ювелирoчка",
+    "url": "http://192.168.0.150:8083/yuvelir_chka.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1276/original/7497373.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "VitrinaTV",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1210/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Суббота!",
+    "url": "http://192.168.0.150:8083/subbota.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1221/original/7456889.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Shopping Live",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1265/original/7493028.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Disney",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/165/original/595235.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Солнце",
+    "url": "http://192.168.0.150:8083/solntse.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1427/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "2x2",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/24/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "КРИК - ТВ",
+    "url": "http://192.168.0.150:8083/krik_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/481/original/667629.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Ю-ТВ",
+    "url": "http://192.168.0.150:8083/yu_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/234/original/593855.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Че",
+    "url": "http://192.168.0.150:8083/che.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/10/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Матч! Страна",
+    "url": "http://192.168.0.150:8083/match_strana.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/124/original/596234.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "СТС love",
+    "url": "http://192.168.0.150:8083/sts.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/613/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Союз",
+    "url": "http://192.168.0.150:8083/soyuz.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/63/original/591118.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Тагил-ТВ",
+    "url": "http://192.168.0.150:8083/tagil_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/283/original/5733390.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Контрольная закупка",
+    "url": "http://192.168.0.150:8083/kontrolnaya_zakupka.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1187/original/7421193.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "TVMChannel",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1223/original/7459391.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Министерство идей",
+    "url": "http://192.168.0.150:8083/ministerstvo_idey.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/832/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Победа",
+    "url": "http://192.168.0.150:8083/pobeda.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1255/original/7485546.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Патриот",
+    "url": "http://192.168.0.150:8083/patriot.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1494/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Советская киноклассика",
+    "url": "http://192.168.0.150:8083/sovetskaya_kinoklassika.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1484/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Мосфильм. Золотая коллекция",
+    "url": "http://192.168.0.150:8083/mosfilm_zolotaya_kollektsiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1339/original/7506348.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "НТВ-ХИТ",
+    "url": "http://192.168.0.150:8083/ntv_hit.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1341/original/7507477.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Поехали!",
+    "url": "http://192.168.0.150:8083/poehali.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1203/original/7438647.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Первый канал HD",
+    "url": "http://192.168.0.150:8083/pervyy_kanal.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/420/original/591310.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Россия 1 HD",
+    "url": "http://192.168.0.150:8083/rossiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/419/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Матч ТВ HD",
+    "url": "http://192.168.0.150:8083/match_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/628/original/5519647.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "НТВ HD",
+    "url": "http://192.168.0.150:8083/ntv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1460/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Карусель HD",
+    "url": "http://192.168.0.150:8083/karusel.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1391/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ОТР HD",
+    "url": "http://192.168.0.150:8083/otr.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1463/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТВЦ HD",
+    "url": "http://192.168.0.150:8083/tvts.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1451/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Рен – ТВ HD",
+    "url": "http://192.168.0.150:8083/ren_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1452/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "СТС HD",
+    "url": "http://192.168.0.150:8083/sts.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1453/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Домашний HD",
+    "url": "http://192.168.0.150:8083/domashniy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1454/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТВ-3 HD",
+    "url": "http://192.168.0.150:8083/tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1459/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "Пятница HD",
+    "url": "http://192.168.0.150:8083/pyatnitsa.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1458/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "МИР HD",
+    "url": "http://192.168.0.150:8083/mir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1449/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ТНТ HD",
+    "url": "http://192.168.0.150:8083/tnt.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1455/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "ОТВ HD",
+    "url": "http://192.168.0.150:8083/otv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1462/color.png",
+    "group": "Эфирный"
+  },
+  {
+    "name": "viju+ Sport",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/42/color.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "KHL",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/177/color.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "Авто Плюс",
+    "url": "http://192.168.0.150:8083/avto_plyus.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/44/original/595867.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "MMA-TV/COM",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1228/color.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "БОКС ТВ",
+    "url": "http://192.168.0.150:8083/boks_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/519/original/1249145.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "Волейбол",
+    "url": "http://192.168.0.150:8083/voleybol.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1492/color.png",
+    "group": "Спорт"
+  },
+  {
+    "name": "MyZen HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/153/original/590765.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "360 HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/491/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Старт HD",
+    "url": "http://192.168.0.150:8083/start.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1387/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "TRASH HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1379/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Kinoliving HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1390/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Наша Тема HD",
+    "url": "http://192.168.0.150:8083/nasha_tema.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1386/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Flix&Snip HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1389/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Хабар 24 HD",
+    "url": "http://192.168.0.150:8083/habar.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1384/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Дикая рыбалка HD",
+    "url": "http://192.168.0.150:8083/dikaya_rybalka.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1375/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Ducktv HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1380/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Eurosport 1 HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/163/original/590977.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Eurosport 2 HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/427/original/590979.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Animal Planet HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/230/original/590792.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Discovery Channel HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/231/original/590788.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "TLC HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1413/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Discovery Science HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1231/original/7461741.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "ID Investigation Discovery HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1230/original/7461744.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "HGTV Home&Garden HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1337/original/7506105.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Наша Сибирь HD",
+    "url": "http://192.168.0.150:8083/nasha_sibir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1233/original/7463145.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Большая Азия HD",
+    "url": "http://192.168.0.150:8083/bolshaya_aziya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1241/original/7473352.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Europa Plus TV HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1242/original/7474014.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Телекон 24 HD",
+    "url": "http://192.168.0.150:8083/telekon.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1252/original/7482172.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Известия HD",
+    "url": "http://192.168.0.150:8083/izvestiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1385/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "viju Explore HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1273/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "viju History HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/533/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "viju Nature HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1274/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "РИМ HD",
+    "url": "http://192.168.0.150:8083/rim.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1275/original/7497090.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "MUSEUM HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1313/original/7502723.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "CNBC Europe HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1353/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Звезда Плюс HD",
+    "url": "http://192.168.0.150:8083/zvezda_plyus.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1357/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Big Planet HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1418/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "МИР 24 HD",
+    "url": "http://192.168.0.150:8083/mir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1450/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "РБК ТВ HD",
+    "url": "http://192.168.0.150:8083/rbk_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1461/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Fox Life",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/178/original/591502.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "FOX",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/179/original/591500.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Психология 21",
+    "url": "http://192.168.0.150:8083/psihologiya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/76/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Тонус ТВ SD",
+    "url": "http://192.168.0.150:8083/tonus_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/82/original/591518.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Здоровое ТВ",
+    "url": "http://192.168.0.150:8083/zdorovoe_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/50/original/591653.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Мужской",
+    "url": "http://192.168.0.150:8083/muzhskoy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/126/original/591512.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Совершенно секретно",
+    "url": "http://192.168.0.150:8083/sovershenno_sekretno.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/59/original/591576.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "365 Дней ТВ",
+    "url": "http://192.168.0.150:8083/dney_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/122/original/591494.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Nick Jr.",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/409/original/591504.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Travel+Adventure",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/318/original/591508.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Усадьба ТВ",
+    "url": "http://192.168.0.150:8083/usadba_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/61/original/591665.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Galaxy",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/583/original/3408066.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Red",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/142/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Sci-fi",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/109/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Black",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/425/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Домашние животные",
+    "url": "http://192.168.0.150:8083/domashnie_zhivotnye.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/77/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Дикий SD",
+    "url": "http://192.168.0.150:8083/dikiy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1374/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Загородный",
+    "url": "http://192.168.0.150:8083/zagorodnyy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1373/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "ID Investigation Discovery",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/212/original/595860.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Центральное ТВ",
+    "url": "http://192.168.0.150:8083/tsentralnoe_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1382/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Discovery Science",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/214/original/595856.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "DTX",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/213/original/595858.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Охота и рыбалка",
+    "url": "http://192.168.0.150:8083/ohota_i_rybalka.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/56/original/591657.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Компас-ТВ",
+    "url": "http://192.168.0.150:8083/kompas_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1298/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Сапфир",
+    "url": "http://192.168.0.150:8083/sapfir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1421/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Кинеко",
+    "url": "http://192.168.0.150:8083/kineko.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1424/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Лапки LIVE",
+    "url": "http://192.168.0.150:8083/lapki.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1432/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Вопросы и ответы",
+    "url": "http://192.168.0.150:8083/voprosy_i_otvety.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/78/original/591647.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Ретро",
+    "url": "http://192.168.0.150:8083/retro.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/75/color.png",
+    "group": "Открытый"
+  },
+  {
+    "name": "Cartoonito",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/128/color.png",
+    "group": "Детям"
+  },
+  {
+    "name": "Радость Моя",
+    "url": "http://192.168.0.150:8083/radost_moya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/257/original/595241.png",
+    "group": "Детям"
+  },
+  {
+    "name": "Рыжий",
+    "url": "http://192.168.0.150:8083/ryzhiy.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/80/original/595237.png",
+    "group": "Детям"
+  },
+  {
+    "name": "Супер Герои",
+    "url": "http://192.168.0.150:8083/super_geroi.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1196/color.png",
+    "group": "Детям"
+  },
+  {
+    "name": "Пингвин",
+    "url": "http://192.168.0.150:8083/pingvin.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1485/color.png",
+    "group": "Детям"
+  },
+  {
+    "name": "ТНТ MUSIC",
+    "url": "http://192.168.0.150:8083/tnt.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/27/original/594711.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/28/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "RU.TV",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/37/original/594737.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "Music Box Ru",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/34/original/594733.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "Europa Plus TV",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/229/original/594727.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE РУССКИЙ ХИТ",
+    "url": "http://192.168.0.150:8083/russkiy_hit.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/207/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "Музыка Первого",
+    "url": "http://192.168.0.150:8083/muzyka_pervogo.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/54/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE HITS",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/434/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE CLASSIC",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/622/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE ШЛЯГЕР",
+    "url": "http://192.168.0.150:8083/shlyager.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1347/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "MCM TOP",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1247/original/7480133.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "AIVA",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1264/original/7492927.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "BRIDGE ROCK",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1377/color.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "MTV 80s",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/363/original/595907.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "MTV 90s",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/364/original/590767.png",
+    "group": "Музыка"
+  },
+  {
+    "name": "Mezzo Live HD",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/1402/color.png",
+    "group": "Music"
+  },
+  {
+    "name": "LEOMAX24",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/356/original/7347842.png",
+    "group": "Телемагазин"
+  },
+  {
+    "name": "РБК ТВ",
+    "url": "http://192.168.0.150:8083/rbk_tv.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/15/original/591487.png",
+    "group": "Информационный"
+  },
+  {
+    "name": "RT",
+    "url": "http://192.168.0.150:8083/.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/134/original/591475.png",
+    "group": "Информационный"
+  },
+  {
+    "name": "Мир 24",
+    "url": "http://192.168.0.150:8083/mir.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/435/original/599045.png",
+    "group": "Информационный"
+  },
+  {
+    "name": "Время",
+    "url": "http://192.168.0.150:8083/vremya.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/46/original/591471.png",
+    "group": "Информационный"
+  },
+  {
+    "name": "СоловьевLive",
+    "url": "http://192.168.0.150:8083/solovev.ts",
+    "logo": "http://pics.tv.planeta.tc/channels/260/color.png",
+    "group": "Информационный"
+  }
+]

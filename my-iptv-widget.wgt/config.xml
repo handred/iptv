@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:t="http://www.samsung.com/tv">
+  <t:application id="MyIPTV" label="My IPTV" icon="icons/icon_120x120.png"/>
+  <content src="index.html"/>
+  <access origin="*"/>
+  <t:defaultlocale>
+    <t:name>My IPTV</t:name>
+  </t:defaultlocale>
+</widget>
