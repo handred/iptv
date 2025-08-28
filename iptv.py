@@ -78,7 +78,7 @@ class IPTVHandler(BaseHTTPRequestHandler):
                 "-flush_packets", "1",    # Быстрая отправка
                 "pipe:1"                  # Вывод в stdout
             ]
-
+        
             ffmpeg = None
             try:
                 ffmpeg = subprocess.Popen(
